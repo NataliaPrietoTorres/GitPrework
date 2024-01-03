@@ -1,4 +1,4 @@
 Name: Natalia
 Age: 30
 Favorite Colour: blue 
-Animal: Kapibara
+Animal: Cabra
