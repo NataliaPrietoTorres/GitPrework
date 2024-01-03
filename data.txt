@@ -1,0 +1,3 @@
+Name: Natalia
+Age: 30
+Favorite Colour: blue 
