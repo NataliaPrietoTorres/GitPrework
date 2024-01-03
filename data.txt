@@ -1,4 +1,6 @@
 Name: Natalia
 Age: 30
 Favorite Colour: blue 
-Animal: Cabra
+Animal: cabra
+Comida: pizza
+Taza: calcetines
